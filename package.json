@@ -1,0 +1,26 @@
+{
+	"name": "lectrum-nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "commonjs",
+	"scripts": {
+		"start": "node src/index.js",
+		"dev": "nodemon src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cross-development/lectrum-nodejs.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/cross-development/lectrum-nodejs/issues"
+	},
+	"homepage": "https://github.com/cross-development/lectrum-nodejs#readme",
+	"devDependencies": {
+		"nodemon": "^2.0.15",
+		"prettier": "^2.6.1"
+	}
+}
