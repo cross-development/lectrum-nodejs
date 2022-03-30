@@ -18,6 +18,8 @@ const t2 = {
 
 manager.add(t1);
 // manager.add(t2, 1, 2);
-// manager.start();
+manager.start();
+// manager.stop();
 // console.log(1);
+// manager.add(t2);
 // manager.pause('t1');
